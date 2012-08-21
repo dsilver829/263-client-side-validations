@@ -6,3 +6,4 @@ gem 'nifty-generators'
 gem 'bcrypt-ruby', :require => 'bcrypt'
 
 gem 'jquery-rails'
+gem 'client_side_validations'
